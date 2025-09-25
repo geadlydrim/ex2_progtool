@@ -19,6 +19,7 @@ def removetask(tasknumber):
 
 def main():
     print("bakal ako")
+    print("wahoo")
     while True:
         print("[1] Add Task")
         print("[2] Show Tasks")
